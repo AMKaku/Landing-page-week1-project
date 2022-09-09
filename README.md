@@ -9,6 +9,7 @@ This is a project about the biography of Arthanasius Muli, the purpose and usage
 - html
 - css
 - github
-link to live site on GitHub Pages
+live site 
+https://amkaku.github.io/Landing-page-week1-project/
 copyright and license information
 
