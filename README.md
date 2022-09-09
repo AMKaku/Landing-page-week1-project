@@ -1,4 +1,4 @@
-## Project or program name 
+## Arthanasius Muli 
 My Portfolio
 ## Author name 
 Arthanasius Muli
