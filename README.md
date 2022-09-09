@@ -25,7 +25,7 @@ Languages used include HTML and CSS. I have used editor Visual Studio Code for c
 
 ## Support and contact details
 
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: arthurkaku@gmail.com to make a contribution to the code or for any assistance on the app/project.
+If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: arthurkaku@gmail.com or on mobile +254717444474 to make a contribution to the code or for any assistance on the app/project.
 
 ### License
 
