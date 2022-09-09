@@ -9,7 +9,10 @@ This is a project about the biography of Arthanasius Muli, the purpose and usage
 - html
 - css
 - github
-live site 
-https://amkaku.github.io/Landing-page-week1-project/
-copyright and license information
 
+#### live site 
+https://amkaku.github.io/Landing-page-week1-project/
+#### license
+_The license used is GPL_
+
+copyright Arthanasius Muli
