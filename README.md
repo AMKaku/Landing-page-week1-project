@@ -15,4 +15,5 @@ https://amkaku.github.io/Landing-page-week1-project/
 #### license
 _The license used is GPL_
 
-copyright Arthanasius Muli
+copyright Arthanasius Muli@2022
+
