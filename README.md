@@ -10,9 +10,9 @@ This is a project about the biography of Arthanasius Muli, the purpose and usage
 
 ## Setup/Installation Requirements
 
-- This is a great place to be, to learn more on Diana
-- find more about Muli on all information about Muli.
-- You will learn on Diana's reason for doing the course.
+- This is a great place to be, to learn more on Arthanasius Muli
+- You will find all information about Arthanasius Muli.
+- About me describes the passion, why look take this course
 - The project is easy-to-understand
 - Just click on the hyperlinks that will direct you to view Github projects.
 
