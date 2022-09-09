@@ -4,6 +4,8 @@ h1 {
   font-style: oblique;
   text-align: center;
   font-style: oblique;
+  text-decoration: underline;
+  font-size: xx-large;
 }
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
