@@ -10,7 +10,6 @@ This is a project about the biography of Arthanasius Muli, the purpose and usage
 
 ## Setup/Installation Requirements
 
-- This is a great place to be, to learn more on Arthanasius Muli
 - You will find all information about Arthanasius Muli.
 - About me describes the passion, why look take this course
 - The project is easy-to-understand
